@@ -1,0 +1,21 @@
+
+{
+  "name": "prismal",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "star": "nodemon server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "module": "",
+  "dependencies": {
+    "@prisma/client": "^6.2.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "prisma": "^6.2.1"
+  }
+}
